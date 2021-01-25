@@ -3,6 +3,7 @@
 Redis for local developement
 
 usefull commands:
+
     docker-compose up         //spin up the container
     docker-compose up -d      //spin up the container in the backgroud
     docker-compose stop redis //turn off container if spun up in the background
